@@ -1,0 +1,1 @@
+To generate data, check out https://github.com/jaekookang/Articulatory-Data-Extractor.
