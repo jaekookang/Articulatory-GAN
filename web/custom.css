@@ -30,3 +30,20 @@ hr {
     margin: 10px;
     display: block;
 }
+
+pre code {
+    background-color: #eee;
+    border: 1px solid #999;
+    display: block;
+    padding: 20px;
+    margin: auto;
+}
+
+pre {
+    margin: auto;
+}
+
+.jumbotron{
+    /* color: #634c12; */
+    background-color: #FFE1E6 !important;
+}

@@ -1,4 +1,8 @@
 *~
 .DS_Store
-.ipynb_checkpoints
+.vscode
 __pycache__
+data/F*.csv
+data/M*.csv
+data/*.pkl
+data/extract_data.py
